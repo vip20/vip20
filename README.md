@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Vinay 👋
+
+I am a software developer passionate on creating web and mobile apps.
 
 <!--
 **vip20/vip20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
