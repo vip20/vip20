@@ -9,7 +9,7 @@ I am a software developer passionate on creating web and mobile apps. I've been 
 * 🌍  I'm based in Bengaluru, India
 * 🖥️  See my portfolio at [here](http://vinayp.com)
 * ✉️  You can contact me at [pvinayvinu20@gmail.com](mailto:pvinayvinu20@gmail.com)
-* 🧠  I'm learning Rust, React Js
+* 🧠  I'm learning Nuxt, Qwik JS
 
 ### Skills
 
